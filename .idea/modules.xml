@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientGui/ClientGui.iml" filepath="$PROJECT_DIR$/ClientGui/ClientGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerGui/ServerGui.iml" filepath="$PROJECT_DIR$/ServerGui/ServerGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/connectServerToClient-Project.iml" filepath="$PROJECT_DIR$/.idea/connectServerToClient-Project.iml" />
+    </modules>
+  </component>
+</project>
